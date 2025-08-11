@@ -1,5 +1,8 @@
 # AI-Powered Adaptive Workplace Learning
 
+![Initial_prototype](https://octodex.github.com/images/yaktocat.png)
+
+
 ## Problem Statement  
 In rapidly changing workplaces, employees often lack clear insight into the skills required to contribute effectively to upcoming projects—particularly in specialized fields eg. software devs, security, DevOps etc. This leads to inconsistent learning paths that may not align with real-world demands, creating barriers to career advancement and hindering organizational responsiveness.
 
