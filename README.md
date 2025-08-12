@@ -1,6 +1,6 @@
 # AI-Powered Adaptive Workplace Learning
 
-![Initial_prototype]([https://octodex.github.com/images/yaktocat.png](https://github.com/SJMcode/ai-powered-adpative-workplace-learning/blob/main/resources/init_idea.jpg))
+![Initial_prototype](https://github.com/SJMcode/ai-powered-adpative-workplace-learning/blob/main/resources/init_idea.jpg)
 
 
 ## Idea 
