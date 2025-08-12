@@ -12,7 +12,7 @@ Build an AI based platform where users can upskill and track their progress for 
 - ** role based login.  
 - ** chat feature.  
 - ** tools integration slack, gitlab, project management tool.  
-- ** .  
+- ** Virtual lab where users can practice.  
 - ** .
 
 ### Contribute:
